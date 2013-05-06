@@ -83,7 +83,7 @@ meta:
   license: MIT
   license_url: http://opensource.org/licenses/mit-license.php
 
-  css_prefix: "icon-"
+  css_prefix_text: "icon-"
   columns: 4
 
 font:
@@ -99,7 +99,7 @@ font:
   copyright: Copyright (C) 2012 by Sam Collins
 
   ascent: 850
-  descent: 150
+  descent: -150
   weight: Medium
 
 glyphs:
@@ -459,6 +459,11 @@ glyphs:
     uid: 9bba5df43e4e9419975336161e1810c3
     search: [github]
   -
+    css: github-circled
+    code: 0xE8
+    uid: ff16079eb4be12c49bf3014d2322acdd
+    search: [github]
+  -
     css: googleplay
     code: 0x68
     uid: 909f99f11c6b6551bf757b6e809f98f3
@@ -648,4 +653,31 @@ glyphs:
     code: 0xe9
     uid: 5b1387fb48babf0748ea04107c9adac3
     search: [bitbucket]
+  -
+    css: lego
+    code: 0xEA
+    uid: 15a2a7646f0f7c0f129bee0f790d12fc
+    search: [lego]
+  -
+    css: login
+    code: 0xEB
+    uid: 1dabc07fb86333ee947c283f74ab5fc8
+    search: [login]
+  -
+    css: stackoverflow
+    code: 0xEC
+    uid: e7d17d4d07756f4ab5eb690eea1275ca
+    search: [stack overflow]
+  -
+    css: hackernews
+    code: 0xEd
+    uid: 054a8f79ee2dae6c1ba909cc0c6f0cf9
+    search: [hacker news]
+  -
+    css: lkdto
+    code: 0xEE
+    uid: 2634442580bb3c5c7d87f30bed0227a8
+    search: [lkdto]
+
+
 
